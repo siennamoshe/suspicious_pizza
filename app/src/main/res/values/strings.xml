@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PizzaProject</string>
+    <string name="Start_app">Start Order</string>
+    <string name="Toppings_question">Desired Toppings:</string>
+    <string name="Topping_Peppers">Peppers</string>
+    <string name="Topping_Pepperoni">Pepperoni</string>
+    <string name="Topping_Potstickers">Pot-stickers</string>
+    <string name="Name_question">Please Enter your Name: </string>
+    <string name="Default_name">Name</string>
+    <string name="Crust_Information">Crust Specifications:</string>
+    <string name="Crust_Doughy">Doughy</string>
+    <string name="Crust_Crusty">Crusty</string>
+    <string name="Crust_Classic">Classic</string>
+    <string name="Tax_Rate">Tax Rate in Your Area: 00.07%</string>
+    <string name="Make_Order">Make Order</string>
+    <string name="Size_Large">LARGE</string>
+    <string name="Size_SMall">SMALL</string>
+    <string name="Pizza_Size">Your Pizza Size:</string>
+    <string name="Pizza_Cost_Is">Total Cost:</string>
+    <string name="Complete_Order">Complete Order</string>
+    <string name="Order_Finished"> Order Sent</string>
+    <string name="Pizza_Total"> Pick a Size For Price </string>
+</resources>
